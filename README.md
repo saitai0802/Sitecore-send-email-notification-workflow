@@ -1,8 +1,8 @@
 # Sitecore - Sending email notification workflow
 Customizing Sitecore's Workflow Email Action (Sending to users who has premission in next workflow state)
 
-Since users often want to customize their workflow notifications to be more meaningful, and website adminstrator wanna to have a easier setting to modify the email setting
-Let's see how what functionality we have.
+Since users often want to customize their workflow notifications to be more meaningful, and website adminstrator wannt to have a easier setting to modify the email setting. So I wrote this Sitecore plugin to achieve that.
+Let's see how what functionalities we have.
 
 1. Sending email to uswers who has any premission on the next Workflow state.
 2. Optional choice to decide whether send to content author as well 
