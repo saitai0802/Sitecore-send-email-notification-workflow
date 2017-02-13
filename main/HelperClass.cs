@@ -1,4 +1,8 @@
-    /***************************There are some helper's method used in Workflow********************************/
+    /*************************************************************************************************/
+    /*********************There are some helper static methods used in Workflow***********************/
+    /*********It is not a completed class. Please add those functions to anywhere you want************/
+    /*************************************************************************************************/
+
         public static Item GetNextState(WorkflowPipelineArgs args)
         {
             Item command = args.ProcessorItem.InnerItem.Parent;
